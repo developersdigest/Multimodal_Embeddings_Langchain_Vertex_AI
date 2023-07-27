@@ -1,0 +1,17 @@
+{
+  "name": "multimodal-langchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faiss-node": "^0.2.2",
+    "langchain": "^0.0.117"
+  },
+  "type": "module"
+}
